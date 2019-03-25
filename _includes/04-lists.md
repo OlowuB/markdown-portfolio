@@ -1,3 +1,3 @@
-*Movies
-*Staying indoors
-*Surfing the net
+* Movies
+* Staying indoors
+* Surfing the net
